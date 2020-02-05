@@ -1,4 +1,4 @@
-package Minsk.Samost.R.SixFebr2020;
+package Minsk.Samost.R.First;
 
 public class Task {
     public static void main(String[] args) {
